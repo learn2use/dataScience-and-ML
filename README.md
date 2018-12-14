@@ -1,9 +1,19 @@
 # dataScience-and-ML
 
 本仓库用于学习
+领域包括数据处理，分析、预测等传统机器学习，以及自然语言处理
 
+-----
 
-为达到良好到视觉顺序及避免过深的目录，考虑目录按时间分，即
+#### ToDo:
+> ToDo 应当尽可能少，一段时间内不超过2条，完成后再增加新到
+
+- Facebook Pytorch课程，学会使用[PyText](https://pytext-pytext.readthedocs-hosted.com/en/latest/index.html)对公告做信息抽取
+- to be added...
+
+---
+
+**为达到良好到视觉顺序及避免过深的目录，考虑目录按时间分，即：**
 
 - 一级目录为月，如18-12, 19-01
 
